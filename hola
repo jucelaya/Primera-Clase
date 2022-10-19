@@ -1,0 +1,10 @@
+print("Hola mundo")
+'''
+Primera clase de codigos
+Julio Cesar Lavado yarasca
+'''
+# @jucelaya
+numero_1 = 21
+numero_2 = 32
+suma = numero_1+numero_2
+print("La suma es = ", suma,"°")
